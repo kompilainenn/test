@@ -8,7 +8,7 @@
 
 Раз
 ---
-* :ref:`01-Lo-GS-intro` 
+* :ref:`01-Lo-GS-intro.rst` 
 
 Оглавление:
 
