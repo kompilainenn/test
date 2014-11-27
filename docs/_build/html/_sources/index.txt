@@ -6,12 +6,12 @@
 Добро пожаловать в Test!
 ================================
 
-Contents:
+Оглавление:
 
 .. toctree::
    :maxdepth: 2
 
-    01-Lo-GS-intro.rst
+   :ref:`01-Lo-GS-intro` 
 
 Indices and tables
 ==================
