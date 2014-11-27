@@ -5,7 +5,7 @@ LibreOffice в процессе установки на компьютер по�
 
 
 .. image:: img/LO-GS-Intro-002.png
-   :width: 100 px
+   :width: 400 px
    :alt: alternate text
    :align: center
    
