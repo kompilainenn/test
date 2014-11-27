@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Test's documentation!
+Добро пожаловать в Test!
 ================================
 
 Contents:
@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+    01-Lo-GS-intro.rst
 
 Indices and tables
 ==================
