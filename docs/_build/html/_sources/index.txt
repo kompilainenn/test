@@ -5,10 +5,11 @@
 
 Добро пожаловать в Test!
 ================================
+:Author: Иван Иванов
 
 Раз
 ---
-* :ref:`01-Lo-GS-intro.rst` 
+
 
 Оглавление:
 
@@ -17,9 +18,7 @@
    
    01-Lo-GS-intro
    02-Lo-GS-intro
-
-
-
+   03-Lo-GS-intro
 
 
 Indices and tables
