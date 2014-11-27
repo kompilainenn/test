@@ -16,6 +16,7 @@
    :maxdepth: 2
    
    01-Lo-GS-intro
+   02-Lo-GS-intro
 
 
 
