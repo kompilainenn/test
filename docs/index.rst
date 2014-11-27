@@ -6,14 +6,20 @@
 Добро пожаловать в Test!
 ================================
 
+Раз
+---
+* :ref:`01-Lo-GS-intro` 
+
 Оглавление:
 
 .. toctree::
    :maxdepth: 2
+   
+   01-Lo-GS-intro
 
 
 
-* :ref:`01-Lo-GS-intro` 
+
 
 Indices and tables
 ==================
