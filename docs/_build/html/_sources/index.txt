@@ -11,7 +11,9 @@
 .. toctree::
    :maxdepth: 2
 
-   :ref:`01-Lo-GS-intro` 
+
+
+* :ref:`01-Lo-GS-intro` 
 
 Indices and tables
 ==================
